@@ -1,0 +1,15 @@
+#head1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+div {
+    width: 100%;
+}
+.background {
+    background-image: url('header.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+}
